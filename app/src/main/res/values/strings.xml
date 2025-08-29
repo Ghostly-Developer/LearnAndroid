@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project1</string>
+    <string name="name_test">Aman</string>
+    <string name="owner_text">Me</string>
 </resources>
